@@ -98,3 +98,18 @@ https://www.linkedin.com/in/subhash-singh-baghel-b03b481a4/
 ---
 
 > "Automate what can be automated. Monitor what matters. Document everything."
+
+
+## Outside Work
+
+When I'm not troubleshooting servers or writing automation scripts, I spend time learning new cloud technologies, helping others with DevOps problems, and experimenting with home lab projects.
+
+## Homelab
+
+Current setup:
+- Proxmox
+- Kubernetes Cluster
+- Docker Services
+- Grafana Dashboard
+- Monitoring Stack
+- VPN Gateway
