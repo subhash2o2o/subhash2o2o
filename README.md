@@ -84,7 +84,7 @@ DevOps Engineer
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?subhash2o2o/SubhashSingh&show_icons=true
+![GitHub Stats](https://github-readme-stats.vercel.app/api?subhash2o2o&show_icons=true
 
 ---
 
